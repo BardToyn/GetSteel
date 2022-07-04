@@ -31,6 +31,10 @@ a {
     font-size: 0.9rem;
 }
 
+.text {
+    font-family: "Roboto";
+}
+
 a:hover {
     color: var(--clr-link-h);
 }
